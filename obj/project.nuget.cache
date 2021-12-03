@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DlSSzoOw1ax//R4Y3N++4wkGmyKYTYSPelDAQrSzcnv4frLvgwG17ekRr7tyR91G4zjCCPRvVyYk5RoHOW8dRw==",
+  "dgSpecHash": "AUSbISvpKOzLovPIWEZnmLHVyA8AM0ATdSaAqFAOLW3mCejFiPTu2gy/7QT0LvdwVS6sBhFSmfu+UOui8nq77w==",
   "success": true,
-  "projectFilePath": "D:\\02_Source\\ndxpro\\NdxProDataManager\\grpc\\NdxPro.gRPC\\NdxPro.gRPC.csproj",
+  "projectFilePath": "D:\\02_Source\\NDXPRO\\NdxProDataManager\\grpc\\NdxPro.gRPC\\NdxPro.gRPC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\20210035\\.nuget\\packages\\google.protobuf\\3.18.0\\google.protobuf.3.18.0.nupkg.sha512",
     "C:\\Users\\20210035\\.nuget\\packages\\grpc.aspnetcore\\2.40.0\\grpc.aspnetcore.2.40.0.nupkg.sha512",
